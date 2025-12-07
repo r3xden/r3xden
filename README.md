@@ -9,7 +9,7 @@
 ---
 
 ## About Me  
----
+
 - I'm an Entrepreneur, have many skills...
 - Build projects and just share them to all...like **Omneon**
 - Well I can speak hindi and bit english too
