@@ -71,4 +71,4 @@
 
 ---
 
-⚡ **"I don’t just write code — I build systems."**
+**"I create my own systems and void."**
