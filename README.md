@@ -1,6 +1,6 @@
 ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r3xden&theme=tokyonight)
 
-# 👑 Rexden  
+# Rexden  
 **@r3xden**
 
 🚀 Entrepreneur | 🤖 AI & Automation | ⚡ Open Source Enthusiast  
@@ -8,14 +8,12 @@
 
 ---
 
-## 🧠 About Me  
-
-- 🔥 Building advanced AI tools & web apps  
-- 🛠 Full Stack Developer (Web + Mobile)  
-- 🤖 Working on AI projects like **Omneon**  
-- 💡 Passionate about Automation, Bots, and Systems  
-- 🎯 Goal: Build powerful software that scales globally  
-
+## About Me  
+---
+- I'm an Entrepreneur, have many skills...
+- Build projects and just share them to all...like **Omneon**
+- Well I can speak hindi and bit english too
+- maybe slow to respond...
 ---
 
 ## 🛠 Tech Stack  
