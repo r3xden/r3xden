@@ -75,8 +75,8 @@
 ## 🧬 AUTO FEATURED PROJECTS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r3xden&repo=YOUR_REPO_1&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r3xden&repo=YOUR_REPO_2&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r3xden&repo=r3xden&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r3xden&repo=omneon&theme=tokyonight" />
 </p>
 
 ---
