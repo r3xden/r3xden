@@ -63,22 +63,6 @@
 
 ---
 
-## 🧬 FEATURED PROJECT
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r3xden&repo=omneon&theme=tokyonight" />
-</p>
-
----
-
-## 📊 MOST USED LANGUAGES
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3xden&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📊 GITHUB STATS
 
 <p align="center">
