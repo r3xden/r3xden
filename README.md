@@ -63,10 +63,18 @@
 
 ---
 
-## 🧬 AUTO FEATURED PROJECTS
+## 🧬 FEATURED PROJECT
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=r3xden&repo=omneon&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 MOST USED LANGUAGES
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3xden&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -79,14 +87,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=r3xden&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 SNAKE CONTRIBUTION ANIMATION
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/r3xden/r3xden/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
