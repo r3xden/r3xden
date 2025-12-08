@@ -1,11 +1,5 @@
 ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r3xden&theme=tokyonight)
 
-# Rexden  
-**@r3xden**
-
-🚀 Entrepreneur | 🤖 AI & Automation | ⚡ Open Source Enthusiast  
-📍 India  
-
 ---
 
 ## About Me  
