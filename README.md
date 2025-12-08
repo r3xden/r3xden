@@ -56,13 +56,4 @@
 
 ---
 
-## 🏆 Achievements  
-
-- ✅ Active Open Source Contributor  
-- ✅ AI System Builder  
-- ✅ Automation Developer  
-- ✅ Creative Tech Designer  
-
----
-
 **"I create my own systems and void."**
