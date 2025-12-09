@@ -71,26 +71,9 @@
 
 ---
 
-## 🖥️ TERMINAL HACKER SECTION
+## ©️ CLARIFICATION
 
-<pre>
-┌──(r3xden㉿cybercore)-[~/system]
-└─$ whoami
-r3xden
-
-┌──(r3xden㉿cybercore)-[~/stack]
-└─$ stack --list
-JavaScript  TypeScript  Python  
-Next.js     React       Expo  
-Node.js     Express     FastAPI  
-PostgreSQL  SQLite  
-
-┌──(r3xden㉿cybercore)-[~/status]
-└─$ system --status
-⚡ SYSTEM ONLINE
-⚡ CYBER PROFILE ACTIVE
-⚡ BUILD MODE: FUTURISTIC
-</pre>
+All projects published under this profile are entirely original creations developed by Anmol Singhal, also known as Rexden Void, and are officially released under Omneon Entreprises, an independent entrepreneurial initiative. Every system, template, tool, and concept shared is built from scratch with the purpose of open learning, free access, and real-world usability. These projects are made publicly available to help students, developers, and creators learn, build, and launch without financial barriers. Omneon Entreprises focuses on innovation, transparency, and community-driven growth through original open-source development.
 
 ---
 
