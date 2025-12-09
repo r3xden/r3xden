@@ -14,12 +14,11 @@
 
 ---
 
-## 🧠 ABOUT ME
-
-- Okay so, I'm Anmol Singhal aka Rexden and an Entrepreneur, have many skills...
-- Build projects and just share them to all...like **Omneon**
-- Well I can speak hindi and bit english too
-- maybe slow to respond...  
+<p align = "center">
+    <b>Okay so, I'm Anmol Singhal an entrepreneur, shares projects!
+    </br>
+    maybe slow to respond/s</b>
+</p>
 
 ---
 
