@@ -17,7 +17,7 @@
 <p align = "center">
     <b>Okay so, I'm Anmol Singhal an entrepreneur, shares projects!
     </br>
-    maybe slow to respond/s</b>
+    maybe slow to respond</b>
 </p>
 
 ---
