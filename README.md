@@ -51,14 +51,6 @@
 
 ---
 
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r3xden&theme=tokyonight"/>
-</p>
-
----
-
 ## ©️ CLARIFICATION
 
 All projects published under this profile are entirely original creations developed by Anmol Singhal, also known as Rexden Void, and are officially released under Omneon Entreprises, an independent entrepreneurial initiative. Every system, template, tool, and concept shared is built from scratch with the purpose of open learning, free access, and real-world usability. These projects are made publicly available to help students, developers, and creators learn, build, and launch without financial barriers. Omneon Entreprises focuses on innovation, transparency, and community-driven growth through original open-source development.
