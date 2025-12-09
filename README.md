@@ -18,10 +18,6 @@
     maybe slow to respond</b>
 </p>
 
-<p align = "center">
-    <img src = "https://komarev.com/ghpvc/?username=r3xden0&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
 ---
 <p align="center">
     <b>Languages</b>
