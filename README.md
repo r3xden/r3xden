@@ -22,31 +22,29 @@
 
 ---
 <p align="center">
-    <b>💻 Languages</b>
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
-</p>
-
-### 🎨 Frontend
-![NextJS](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/Expo-0A0A0A?style=for-the-badge&logo=expo)
-
-### ⚙️ Backend
-![Node](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi)
-
-### 🗄️ Database
-![Postgres](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-0A0A0A?style=for-the-badge&logo=sqlite)
-
-### 🧰 Tools
-![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git)
-![Canva](https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logo=canva)
+    <b>Languages</b>
+   </br></br>
+   <img src = "https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript" />
+   <img src = "https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript" />
+   <img src = "https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python" />
+   </br></br>
+   <b>Frontend</b>
+   </br></br>
+   <img src = "https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs" />
+   <img src = "https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react" />
+   <img src = "https://img.shields.io/badge/Expo-0A0A0A?style=for-the-badge&logo=expo" />
+   </br></br>
+   <b>Backend</b>
+   </br></br>
+   <img src = "https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js" />
+   <img src = "https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express" />
+   <img src = "https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi" />
+   </br></br>
+   <b>Database</b>
+   </br></br>
+   <img src = "https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql" />
+   <img src = "https://img.shields.io/badge/SQLite-0A0A0A?style=for-the-badge&logo=sqlite" />
+   </p>
 
 ---
 
