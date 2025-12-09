@@ -21,13 +21,12 @@
 </p>
 
 ---
-
-## 🛠️ TECH STACK
-
-### 💻 Languages
+<p align="center">
+    <b>💻 Languages</b>
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
+</p>
 
 ### 🎨 Frontend
 ![NextJS](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs)
