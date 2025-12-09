@@ -22,17 +22,6 @@
 
 ---
 
-## 🌐 CONNECT WITH ME
-
-<p align="center">
-  <a href="https://t.me/r3xden"><img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=00F5FF"></a>
-  <a href="https://github.com/r3xden"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F5FF"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-rexden-0A0A0A?style=for-the-badge&logo=discord&logoColor=00F5FF"></a>
-  <a href="mailto:onlyanmolbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00F5FF"></a>
-</p>
-
----
-
 ## 🛠️ TECH STACK
 
 ### 💻 Languages
@@ -78,4 +67,13 @@ All projects published under this profile are entirely original creations develo
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://t.me/r3xden"><img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=00F5FF"></a>
+  <a href="https://github.com/r3xden"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F5FF"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-rexden-0A0A0A?style=for-the-badge&logo=discord&logoColor=00F5FF"></a>
+  <a href="mailto:onlyanmolbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00F5FF"></a>
 </p>
