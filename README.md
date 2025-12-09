@@ -1,11 +1,9 @@
-<!-- ================= 3D NEON NAME LOGO ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=48&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=REXDEN" />
-</p>
-
-<!-- ================= CYBER AI BANNER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=CYBER%20DEV&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=40"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=48&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=REXDEN" />
 </p>
 
 <p align="center">
