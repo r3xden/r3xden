@@ -47,13 +47,6 @@
 ---
 
 <p align="center">
-    <b>©️ CLARIFICATION</b>
-</p>
-All projects published under this profile are entirely original creations developed by Anmol Singhal, also known as Rexden Void, and are officially released under Pro Labs, an independent entrepreneurial initiative. Every system, template, tool, and concept shared is built from scratch with the purpose of open learning, free access, and real-world usability. These projects are made publicly available to help students, developers, and creators learn, build, and launch without financial barriers. Omneon Entreprises focuses on innovation, transparency, and community-driven growth through original open-source development.
-
----
-
-<p align="center">
   <a href="https://t.me/r3xden"><img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=00F5FF"></a>
   <a href="https://github.com/r3xden"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F5FF"></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-rexden-0A0A0A?style=for-the-badge&logo=discord&logoColor=00F5FF"></a>
