@@ -10,15 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=900&color=00F5FF&center=true&vCenter=true&width=720&lines=JavaScript+%7C+TypeScript+%7C+Python;Next.js+%7C+React+%7C+Expo;Node+%7C+Express+%7C+FastAPI;PostgreSQL+%7C+SQLite;Building+Cyber+Grade+Apps" />
 </p>
 
----
-
-<p align = "center">
-    <b>Okay so, I'm Anmol Singhal an entrepreneur, shares projects!
-    </br>
-    maybe slow to respond</b>
-</p>
-
----
 <p align="center">
     <b>Languages</b>
    </br></br>
