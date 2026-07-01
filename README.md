@@ -26,27 +26,6 @@ Hi, i'm **Lordstar Rexden Cryshyal**
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20Quote-2F3136?style=for-the-badge&labelColor=111827&color=374151">
-</p>
-
-<table align="center">
-<tr>
-<td align="center">
-
-*"Always respect everyone's perspective,<br>
-and follow your principles."*
-
-<br>
-
-**— Lordstar Rexden Cryshyal**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
   <img src="https://img.shields.io/badge/%20Stats-2F3136?style=for-the-badge&labelColor=111827&color=374151">
 </p>
 
